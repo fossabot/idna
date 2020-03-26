@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Flaurarvbd%2Fidna.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Flaurarvbd%2Fidna?ref=badge_shield)
+
 Internationalized Domain Names in Applications (IDNA)
 =====================================================
 
@@ -209,3 +211,7 @@ The tests are run automatically on each commit at Travis CI:
 
 .. image:: https://travis-ci.org/kjd/idna.svg?branch=master
    :target: https://travis-ci.org/kjd/idna
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Flaurarvbd%2Fidna.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Flaurarvbd%2Fidna?ref=badge_large)
